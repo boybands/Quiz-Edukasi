@@ -1,0 +1,108 @@
+QWidget {
+    background-color: white; /* Latar belakang utama aplikasi */
+    color: #333333; /* Warna teks umum di seluruh aplikasi */
+}
+
+/* Tombol */
+QPushButton {
+    background-color: #388E3C; /* Hijau - Warna latar belakang tombol secara default */
+    color: white; /* Teks tombol berwarna putih */
+    border-radius: 5px; /* Tombol dengan sudut membulat */
+    padding: 10px; /* Padding dalam tombol */
+    font-size: 15px; /* Ukuran font tombol */
+}
+
+QPushButton:hover {
+    background-color: #616161; /* Abu-abu gelap - Warna tombol saat hover */
+    color: #FFFFFF; /* Teks tetap putih saat hover */
+}
+
+QPushButton:pressed {
+    background-color: grey; /* Abu-abu netral - Warna tombol saat ditekan */
+    color: white; /* Teks tetap putih saat ditekan */
+}
+
+/* Tombol login */
+QPushButton#login_button {
+    background-color: #007bff; /* Biru - Warna tombol login */
+}
+QPushButton#login_button:hover {
+    background-color: #0056b3; /* Biru gelap - Warna tombol login saat hover */
+}
+
+/* Tombol logout */
+QPushButton#btnlogout {
+    background-color: #F5F5F5; /* Abu-abu terang - Warna tombol logout */
+    border: 2px solid #000000; /* Border hitam pada tombol logout */
+    padding: 5px; /* Padding tombol logout */
+}
+
+/* Tombol register */
+QPushButton#register_button {
+    background-color: #f39c12; /* Kuning - Warna tombol register */
+}
+QPushButton#register_button:hover {
+    background-color: #e67e22; /* Oranye gelap - Warna tombol register saat hover */
+}
+
+/* Tombol Edit dan Hapus */
+QPushButton#btneditsoal, QPushButton#btnhapussoal, QPushButton#btnhapusresults {
+    background-color: #D32F2F; /* Merah lebih gelap */
+    color: #FFFFFF; /* Teks putih */
+}
+
+/* LineEdit */
+QLineEdit {
+    background-color: #ecf0f1; /* Abu-abu terang - Warna latar belakang kolom input teks */
+    border: 1px solid #bdc3c7; /* Abu-abu netral - Warna border kolom input */
+    border-radius: 5px; /* Sudut membulat pada kolom input */
+    padding: 5px; /* Padding dalam kolom input */
+    font-size: 14px; /* Ukuran font input teks */
+}
+QLineEdit:focus {
+    border-color: #3498db; /* Biru terang - Warna border kolom input saat fokus */
+}
+
+/* Label */
+QLabel {
+    font-size: 18px; /* Ukuran font label */
+    color: #34495e; /* Abu-abu gelap - Warna teks label */
+    font-weight: bold; /* Teks label dicetak tebal */
+}
+
+/* ComboBox */
+QComboBox {
+    background-color: #ecf0f1; /* Abu-abu terang - Warna latar belakang dropdown */
+    border: 1px solid #bdc3c7; /* Border abu-abu netral pada dropdown */
+    border-radius: 5px; /* Sudut membulat pada dropdown */
+    padding: 5px; /* Padding dalam dropdown */
+    font-size: 13px; /* Ukuran font dropdown */
+}
+QComboBox:hover {
+    background-color: #3498db; /* Biru terang - Warna dropdown saat hover */
+}
+
+/* TextEdit */
+QTextEdit {
+    background-color: #ecf0f1; /* Abu-abu terang - Warna latar belakang area teks multiline */
+    border: 1px solid #bdc3c7; /* Border abu-abu netral pada area teks */
+    border-radius: 5px; /* Sudut membulat pada area teks */
+    padding: 10px; /* Padding dalam area teks */
+    font-size: 14px; /* Ukuran font area teks */
+}
+QTextEdit:focus {
+    border-color: #3498db; /* Biru terang - Warna border area teks saat fokus */
+}
+
+/* TableWidget */
+QTableWidget {
+    background-color: #ffffff; /* Putih - Warna latar belakang tabel */
+    border: 1px solid #bdc3c7; /* Border abu-abu netral pada tabel */
+    border-radius: 5px; /* Sudut membulat pada tabel */
+    font-size: 14px; /* Ukuran font dalam tabel */
+}
+QTableWidget::item:selected {
+    background-color: #2980b9; /* Biru terang - Warna latar belakang item tabel yang dipilih */
+    color: white; /* Teks item tabel yang dipilih berwarna putih */
+}
+
